@@ -56,7 +56,7 @@ To run the application, use the following steps:
     ```
 3. Send query to the console app
     ```bash
-    ollama_llama ask query
+    ollama_llama ask <query>
     ```
     Example:
     ```bash
